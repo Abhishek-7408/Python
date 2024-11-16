@@ -4,3 +4,5 @@ def fun():
     x = 88 
 fun()
 print(x)
+
+# avoid this type of confusion 
